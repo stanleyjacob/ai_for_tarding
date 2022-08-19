@@ -1,1 +1,1 @@
-# ai_for_tarding
+# ai_for_trading
